@@ -11,7 +11,7 @@ void getcharLock(int loops){
 }
 
 void clearscreen(){
-    printf("\n"); system("cls");
+    printf("\n"); system("clear");
 }
 
 int filenlines(const char *filename)
